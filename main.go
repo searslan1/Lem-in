@@ -272,3 +272,5 @@ func main() {
 	// Karıncaları validPaths yollarında hareket ettir
 	g.moveAnts(validPaths)
 }
+
+// lallalal
